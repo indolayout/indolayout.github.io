@@ -1,6 +1,10 @@
-@inproceedings{shantanu2022Indolayout,
-  title={IndoLayout: Leveraging Attention for Extended Indoor Layout Estimation from an RGB Image},
-  author={Shantanu Singh, Jaidev Shriram, Shaantanu Kulkarni, Brojeshwar Bhowmick, K. Madhava Krishna},
-  booktitle={IROS 2022},
-  year={2022}
-}
+@INPROCEEDINGS{9982106,
+  author={Singh, Shantanu and Shriram, Jaidev and Kulkarni, Shaantanu and Bhowmick, Brojeshwar and Krishna, K. Madhava},
+  booktitle={2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
+  title={IndoLayout: Leveraging Attention for Extended Indoor Layout Estimation from an RGB Image}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={13128-13135},
+  keywords={Measurement;Layout;Estimation;Real-time systems;Adversarial machine learning;Indoor environment;Task analysis},
+  doi={10.1109/IROS47612.2022.9982106}}
