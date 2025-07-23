@@ -1,6 +1,6 @@
-@inproceedings{author20XXtitle,
-  title={Please cite me},
-  author={Author, First and Author, Second and Author, Third},
-  booktitle={Conference},
-  year={20XX}
+@inproceedings{shantanu2022Indolayout,
+  title={IndoLayout: Leveraging Attention for Extended Indoor Layout Estimation from an RGB Image},
+  author={Shantanu Singh, Jaidev Shriram, Shaantanu Kulkarni, Brojeshwar Bhowmick, K. Madhava Krishna},
+  booktitle={IROS 2022},
+  year={2022}
 }
